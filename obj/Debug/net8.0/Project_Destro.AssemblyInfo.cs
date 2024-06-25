@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project_Destro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e634aa72f200807ee07969b5557ee97611147fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project_Destro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project_Destro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
